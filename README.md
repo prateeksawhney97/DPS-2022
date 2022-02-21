@@ -34,26 +34,32 @@ There are 3 distinct models whose source code and development can be found in th
 
 #### Visualization Using Meta Prophet:
 
-1. For alcohol accidents :
+1. For alcohol accidents Forecast :
 
 ![alcohol-accidents](https://user-images.githubusercontent.com/34116562/154888954-f781ffb8-ab5e-4c6a-aab1-e919bdf52d47.png)
 
-2. For escape accidents :
+2. For escape accidents Forecast :
 
 ![escape-accidents](https://user-images.githubusercontent.com/34116562/154888959-1950018f-0ac4-4d1f-939f-3a5458185b9e.png)
 
-3. For traffic accidents :
+3. For traffic accidents Forecast :
 
 ![traffic-accidents](https://user-images.githubusercontent.com/34116562/154888969-187fc2ce-2cea-476e-8fc0-69d031d9e065.png)
 
 
-#### Another Approach:
-
+4. Accidents category visualization :
 
 ![plot1](https://user-images.githubusercontent.com/34116562/154888975-5a895710-a4fb-441f-bb2f-06cb419c2b16.png)
+ 
 ![plot2](https://user-images.githubusercontent.com/34116562/154888985-91ed7450-af92-4189-bf57-5fd4b276c3d1.png)
+
+5. Number of accidents per category :
+
 ![plot5](https://user-images.githubusercontent.com/34116562/154888991-1d2387a5-e1d8-4204-a8d1-a7c05a1df59a.png)
+
+6. Number of accidents per accident type :
+
 ![plot6](https://user-images.githubusercontent.com/34116562/154888996-a8ed8b61-e43e-4ebf-9652-7e713f1483ef.png)
 
-
+#### Another Approach:
 
