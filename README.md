@@ -12,3 +12,6 @@ The data set "Monatszahlen Verkehrsunfälle" which can be downloaded from the be
 1. Traffic accidents
 2. Escape accidents
 3. Alcohol accidents
+
+### Used Approach:
+
