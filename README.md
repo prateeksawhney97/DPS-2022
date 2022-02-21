@@ -32,6 +32,27 @@ There are 3 distinct models whose source code and development can be found in th
 2. Escape accidents -> forecast_model_escape.bin
 3. Alcohol accidents -> forecast_model.bin
 
+## End Points that returns the Predictions in JSON Format :
+
+I created 3 endpoints that returns the predictions in JSON format for Alcohol accidents, Traffic accidents and Escape accidents.
+
+#### Note : These endpoints supports 2021, 2022 also. One can see the forecasts for Year 2022 also!
+
+1. https://accidentdps.herokuapp.com/api/predictalcohol
+
+<img width="1014" alt="postman-alcohol-1" src="https://user-images.githubusercontent.com/34116562/154941056-ddd32f37-ad10-4d9a-8c23-6343dea719dd.png">
+
+<img width="1014" alt="postman-alcohol-2" src="https://user-images.githubusercontent.com/34116562/154941075-94d18ccd-5400-473f-ab18-6d016cc17725.png">
+
+2. https://accidentdps.herokuapp.com/api/predictescape
+
+<img width="1014" alt="postman-escape" src="https://user-images.githubusercontent.com/34116562/154941067-702a9529-fcca-42d2-8eb8-655c726ace75.png">
+
+3. https://accidentdps.herokuapp.com/api/predicttraffic
+
+<img width="1014" alt="postman-traffic" src="https://user-images.githubusercontent.com/34116562/154941074-0e6cf190-73f4-48e5-9283-fb416bdf8875.png">
+
+
 #### Visualization Using Meta Prophet:
 
 1. For alcohol accidents Forecast :
