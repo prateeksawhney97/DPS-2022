@@ -63,3 +63,6 @@ There are 3 distinct models whose source code and development can be found in th
 
 #### Another Approach:
 
+I also trained my deep neural network by altering and figuring out which network works best for my input dataset. Used the 5 important columns and tried to fit the model using Keras but the results were not fruitful because of the less number of data. Another approach, I used was use all the columns of the input dataset (including not necessary columns too) and fitting my model onto that. The results were not upto the mark. 
+
+Both of these implementation techniques could be found in the jupyter notebook "AccidentPrediction.ipynb". I have also included the ML model built using Keras in the ".h5" file format.
